@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    margin: 0 15%;
+    width: 75%;
+    border: 2px;
+    border-style: solid;
+    border-color: blue;
+}
+        h1, h2 {
+            text-align: center;  /* Centers the heading text */
+            margin: 0 auto;
+        }
+
+        h1 {
+            background-color: lightgray;
+            margin-top: 20px;
+            padding: 10px;
+        }
+
+        h2 {
+            background-color: lightgray;
+            font-style: italic;
+            margin: 0;
+            padding: 10px;
+        }
+
+        p {
+            font-family: monospace;
+            margin: 10px 0;
+            text-align: center;  /* Centers the paragraph text */
+        }
+
+p{
+    font-family: monospace;
+}
